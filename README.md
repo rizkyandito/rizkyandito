@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rizkyandito.rizkyandito&"  />
+</div>
+
+###
+
 <h1 align="center">Hi there! Welcome to my GitHub Account 👋</h1>
 
 ###
@@ -45,5 +51,17 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkyandito/rizkyandito/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkyandito/rizkyandito/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkyandito/rizkyandito/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/rizkyandito/rizkyandito/output/snake.svg" alt="Snake animation" />
 
 ###
